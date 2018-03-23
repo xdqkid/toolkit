@@ -3,6 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @author       xdqkid
+// @match        http://my.njxzc.edu.cn
+// @match        http://my.njxzc.edu.cn/*
 // @match        http://my.njxzc.edu.cn/index.portal
 // ==/UserScript==
 
